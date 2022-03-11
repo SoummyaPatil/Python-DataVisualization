@@ -2,5 +2,5 @@
 Data Visualizations using Python
 
 
-Sample
-![Hello](/barchart.png)
+Images:
+![Bar Chart](/barchart.png)
